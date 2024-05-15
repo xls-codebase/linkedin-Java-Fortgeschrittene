@@ -1,4 +1,4 @@
-# [DE-Kursname hier eintragen]
+# Java für Fortgeschrittene
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Java für Fortgeschrittene`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
